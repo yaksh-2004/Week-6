@@ -1,0 +1,22 @@
+[
+    {
+      "question": "How many players are there in each cricket team on the field during a match?",
+      "options": ["8", "10", "11", "12"],
+      "correct": "11"
+    },
+    {
+      "question": "What is the name of the three wooden stumps topped by two bails on which the ball is aimed?",
+      "options": ["Pitch", "Boundary", "Wicket", "Crease"],
+      "correct": "Wicket"
+    },
+    {
+      "question": "Which format of cricket involves two teams playing a single match over a maximum of 50 overs per side?",
+      "options": ["Test", "Odi", "T-20", "T-10"],
+      "correct": "Odi"
+    },
+    {
+        "question": " Which bowler holds the record for the most wickets taken in Test cricket history?",
+        "options": ["Shane Warne (Australia)", " Glenn McGrath (Australia)", "James Anderson (England)", "Muttiah Muralitharan (Sri Lanka)"],
+        "correct": "Muttiah Muralitharan (Sri Lanka)"
+    }
+  ]
